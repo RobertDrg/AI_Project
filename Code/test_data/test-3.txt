@@ -1,0 +1,5 @@
+The first person starts from: Mehadia
+The second person starts from: Valcea
+The minimum distance travelled is:  341
+The route taken by the first person is: ['Mehadia', 'Drobeta', 'Craiova', 'Valcea']
+The time necessary for the first person to reach the goal state is:  206.0

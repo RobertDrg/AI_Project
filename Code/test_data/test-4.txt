@@ -1,0 +1,5 @@
+The first person starts from: Oradea
+The second person starts from: Drobeta
+The minimum distance travelled is:  520
+The route taken by the first person is: ['Oradea', 'Zerind', 'Arad', 'Timisoara', 'Lugoj', 'Mehadia', 'Drobeta']
+The time necessary for the first person to reach the goal state is:  268

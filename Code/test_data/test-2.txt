@@ -1,0 +1,5 @@
+The first person starts from: Timisoara
+The second person starts from: Urziceni
+The minimum distance travelled is:  621
+The route taken by the first person is: ['Timisoara', 'Arad', 'Sibiu', 'Valcea', 'Pitesti', 'Bucuresti', 'Urziceni']
+The time necessary for the first person to reach the goal state is:  355

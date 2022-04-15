@@ -1,0 +1,5 @@
+The first person starts from: Drobeta
+The second person starts from: Lugoj
+The minimum distance travelled is:  145
+The route taken by the first person is: ['Drobeta', 'Mehadia', 'Lugoj']
+The time necessary for the first person to reach the goal state is:  75

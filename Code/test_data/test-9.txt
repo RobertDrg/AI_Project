@@ -1,0 +1,5 @@
+The first person starts from: Mehadia
+The second person starts from: Arad
+The minimum distance travelled is:  299
+The route taken by the first person is: ['Mehadia', 'Lugoj', 'Timisoara', 'Arad']
+The time necessary for the first person to reach the goal state is:  173.5

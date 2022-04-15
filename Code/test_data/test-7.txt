@@ -1,0 +1,5 @@
+The first person starts from: Urziceni
+The second person starts from: Oradea
+The minimum distance travelled is:  514
+The route taken by the first person is: ['Urziceni', 'Bucuresti', 'Pitesti', 'Valcea', 'Sibiu', 'Oradea']
+The time necessary for the first person to reach the goal state is:  302.5
